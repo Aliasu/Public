@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: nginx-argo-test-2
+  name: nginx-argo-test
   namespace: argo-test
   labels:
     app: nginx
